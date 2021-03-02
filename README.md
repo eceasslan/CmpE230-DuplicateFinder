@@ -1,4 +1,4 @@
-# CmpE230-IdenticalFinder
+# CmpE230-DuplicateFinder
 
 This project searches for identical contents and/or names of files/directories.
 
